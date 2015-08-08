@@ -1,0 +1,59 @@
+libphonenumber (6.3~svn698-3+b1blankon1) tambora; urgency=medium
+
+  * Rebuild 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Sat, 08 Aug 2015 14:52:18 +0700
+
+libphonenumber (6.3~svn698-3) unstable; urgency=medium
+
+  * More patches for JDK 1.5 build.
+
+ -- Daniel Pocock <daniel@pocock.pro>  Wed, 03 Sep 2014 07:12:50 +0200
+
+libphonenumber (6.3~svn698-2) unstable; urgency=medium
+
+  * Add patches for JDK 1.5 build.
+
+ -- Daniel Pocock <daniel@pocock.pro>  Tue, 02 Sep 2014 20:47:56 +0200
+
+libphonenumber (6.3~svn698-1) unstable; urgency=medium
+
+  * Latest upstream snapshot.
+
+ -- Daniel Pocock <daniel@pocock.pro>  Thu, 28 Aug 2014 10:59:31 +0200
+
+libphonenumber (6.3~svn681-5) unstable; urgency=medium
+
+  * Ensure JARs are installed to the correct locations.
+
+ -- Daniel Pocock <daniel@pocock.pro>  Wed, 20 Aug 2014 10:28:18 +0200
+
+libphonenumber (6.3~svn681-4) unstable; urgency=medium
+
+  * Fix for issue with large unsigned long.
+
+ -- Daniel Pocock <daniel@pocock.pro>  Tue, 19 Aug 2014 15:32:10 +0200
+
+libphonenumber (6.3~svn681-3) unstable; urgency=medium
+
+  * Remove Build-Depends-Indep as Java needed for C++ build.
+
+ -- Daniel Pocock <daniel@pocock.pro>  Tue, 19 Aug 2014 14:41:08 +0200
+
+libphonenumber (6.3~svn681-2) unstable; urgency=medium
+
+  * Remove patch for Maven plugin versions.
+
+ -- Daniel Pocock <daniel@pocock.pro>  Tue, 19 Aug 2014 14:00:20 +0200
+
+libphonenumber (6.3~svn681-1) unstable; urgency=medium
+
+  * Latest upstream code.
+
+ -- Daniel Pocock <daniel@pocock.pro>  Tue, 19 Aug 2014 10:15:18 +0200
+
+libphonenumber (6.3~svn680-2) unstable; urgency=medium
+
+  * Initial packaging (Closes: #741258)
+
+ -- Daniel Pocock <daniel@pocock.pro>  Sun, 15 Jun 2014 13:11:35 +0200
